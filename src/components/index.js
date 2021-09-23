@@ -4,3 +4,5 @@ export { default as Exchanges } from '../components/Exchanges';
 export { default as Cryptocurrencies } from '../components/Cryptocurrencies';
 export { default as CryptoDetails } from '../components/CryptoDetails';
 export { default as News } from '../components/News';
+export { default as LineChart } from '../components/LineChart';
+export { default as Loader } from '../components/Loader';
