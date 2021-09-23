@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/App.css" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/src/App.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/app/store.js" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/src/components/CryptoDetails.jsx" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/src/components/Cryptocurrencies.jsx" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/src/components/Exchanges.jsx" charset="US-ASCII" />
@@ -11,5 +12,6 @@
     <file url="file://$PROJECT_DIR$/src/components/News.jsx" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/src/components/index.js" charset="US-ASCII" />
     <file url="file://$PROJECT_DIR$/src/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/services/cryptoApi.js" charset="US-ASCII" />
   </component>
 </project>
